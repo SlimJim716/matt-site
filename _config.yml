@@ -20,10 +20,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-#twitter_username: username
-#github_username: username
+twitter_username: username
+github_username: username
 minimal_mistakes_skin: default
-search: false
+search: true
 
 # Build settings
 markdown: kramdown
@@ -68,7 +68,7 @@ author:
       url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/matthewluxeder"
+      url: "https://www.instagram.com/matthewluxeder"
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
       url: "https://www.behance.net/matthewluxeder"
@@ -87,7 +87,7 @@ footer:
       url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/matthewluxeder"
+      url: "https://www.instagram.com/matthewluxeder"
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
       url: "https://www.behance.net/matthewluxeder"
@@ -108,7 +108,7 @@ defaults:
       author_profile: true
       read_time: false
       comments: true
-      share: true
+      share: false
       related: false
   # _pages
   - scope:

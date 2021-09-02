@@ -1,6 +1,7 @@
 ---
 permalink: /film/
 title: "My Films"
+toc: true
 ---
 
 ## Title of a good video
@@ -19,3 +20,5 @@ title: "My Films"
 A quick summary of the video above.
 
 ## Add another video under here!
+
+## A third!

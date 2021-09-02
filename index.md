@@ -4,6 +4,6 @@ layout: single
 permalink: /
 ---
 
-# Homepage
+## Homepage
 
 Write some homepage stuff here idrk

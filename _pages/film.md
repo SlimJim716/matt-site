@@ -8,7 +8,7 @@ title: "My Films"
 
 <figure class="video_container">
   <video controls="true" allowfullscreen="true">
-    <source src="/assets/test-film.mp4" type="video/mp4">
+    <source src="https://github.com/SlimJim716/matt-site2/blob/464b17410ebea0fbd7887e67da46954bd5b47d46/assets/test-film.mp4" type="video/mp4">
   </video>
 </figure>
 

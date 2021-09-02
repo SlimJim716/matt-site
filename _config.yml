@@ -63,7 +63,6 @@ author:
   avatar : "/assets/images/logo.jpg"
   bio    : "Film is good. Put brief bio here"
   location: "Somewhere"
-  email  : "email@example.com"
   
   links:
     - label: "Email"

@@ -64,7 +64,7 @@ author:
   bio    : "Film is good. Put Bio Here"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
@@ -83,7 +83,7 @@ author:
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"

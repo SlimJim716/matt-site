@@ -3,5 +3,5 @@ main:
     url: /about/
   - title: "Film"
     url: /film/
-  - title: "Posts"
+  - title: "Activity"
     url: /posts/

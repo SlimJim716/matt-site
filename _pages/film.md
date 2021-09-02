@@ -4,7 +4,6 @@ title: "My Films"
 ---
 
 ## Title of a good video
-![alt]({{ site.url }}{{ site.baseurl }}/assets/test-film.mp4)
 
 <div class="embed-container">
   <iframe

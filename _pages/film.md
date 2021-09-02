@@ -1,4 +1,3 @@
-
 ---
 permalink: /film/
 title: "My Films"

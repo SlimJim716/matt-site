@@ -60,8 +60,8 @@ plugins:
 
 author:
   name   : "Matthew Luxeder"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Film is good. Put Bio Here"
+  avatar : "/assets/images/logo.jpg"
+  bio    : "Film is good. Put brief bio here"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

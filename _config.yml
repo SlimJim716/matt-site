@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthewluxeder"
     - label: "Behance"
-      icon: "fab fa-behance-square"
+      icon: "fab fa-fw fa-behance-square"
       url: "https://www.behance.net/matthewluxeder"
 
 

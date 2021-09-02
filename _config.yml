@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Film is good. Put Bio Here"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://matt.jjpconnect.com"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthewluxeder"
@@ -82,9 +82,9 @@ author:
 
 footer:
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://matt.jjpconnect.com"
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "mailto:m.luxeder@att.net"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/matthewluxeder"

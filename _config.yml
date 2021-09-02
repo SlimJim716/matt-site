@@ -72,16 +72,31 @@ author:
     - label: "Behance"
       icon: "fab fa-fw fa-behance-square"
       url: "https://www.behance.net/matthewluxeder"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://www.vimeo.com/matthewluxeder"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UC5YciMWLyW4zq7J-eWcZx0g"
 
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://matt.jjpconnect.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/matthewluxeder"
+    - label: "Behance"
+      icon: "fab fa-fw fa-behance-square"
+      url: "https://www.behance.net/matthewluxeder"
+    - label: "Vimeo"
+      icon: "fab fa-fw fa-vimeo-square"
+      url: "https://www.vimeo.com/matthewluxeder"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/channel/UC5YciMWLyW4zq7J-eWcZx0g"
 
 defaults:
   # _posts

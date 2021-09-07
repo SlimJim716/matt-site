@@ -61,8 +61,8 @@ plugins:
 author:
   name   : "Matthew Luxeder"
   avatar : "/assets/images/logo.jpg"
-  bio    : "Film is good. Put brief bio here"
-  location: "Somewhere"
+  bio    : "Filmmaker. Designer."
+  location: "CT, USA"
   
   links:
     - label: "Email"

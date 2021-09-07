@@ -6,4 +6,8 @@ permalink: /
 ---
 
 
-Write some homepage stuff here idrk go nuts, put photos or something
+### Coming soon…
+
+Material Possessions:
+A personal history of a 94-year-old man, told through the pictures and possessions found within his house.
+

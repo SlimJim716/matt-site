@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 
-<img src="/assets/images/me.jpg" width="300" height="300" class="center">
+<center><img src="/assets/images/me.jpg" width="300" height="300"></center>
   
 Matthew Luxeder is an American filmmaker who explores the concepts of storytelling, human condition, family, journeys, and “truth.”
 

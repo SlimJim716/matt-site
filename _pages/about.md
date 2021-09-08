@@ -9,5 +9,5 @@ Matthew is a senior studying at the University of Connecticut going for a B.F.A 
 
 His recent short documentary film, “Dear Tonya,” was awarded third place in the student section at the New Haven Documentary Film Festival.
 
-\
-![Me](matt-site/assets/images/me.jpg)
+  
+![Me](/assets/images/me.jpg)

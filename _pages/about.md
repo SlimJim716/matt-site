@@ -4,7 +4,8 @@ title: "About"
 ---
 
 <center><img src="/assets/images/me.jpg" width="300" height="300"></center>
-  
+<br>
+
 Matthew Luxeder is an American filmmaker who explores the concepts of storytelling, human condition, family, journeys, and “truth.”
 
 Matthew is a senior studying at the University of Connecticut going for a B.F.A in Digital Media and Design with a concentration in Film/Video Production and minoring in Communications. He actively writes, directs, produces, and edits his film.

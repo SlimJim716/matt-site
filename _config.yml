@@ -18,8 +18,6 @@ url: https://www.mluxeder.com
 email: m.luxeder@att.net
 description: >- # this means to ignore newlines until "baseurl:"
   Matthew's Luxeder's website showcasing film and design projects. Check it out!
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: default

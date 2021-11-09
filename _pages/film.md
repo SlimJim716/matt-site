@@ -3,6 +3,18 @@ permalink: /film/
 title: "My Films"
 ---
 
+## Showreel
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/644078472" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+## Video Poem
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/644077784" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+## Master Shot
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/640132397" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
 ## Dear Tonya,
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/522078075" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 

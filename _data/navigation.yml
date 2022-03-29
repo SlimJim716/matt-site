@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Film"
     url: /film/
+  - title: "American Boy"
+    url: /american-boy/
   - title: "Activity"
     url: /posts/
   - title: "Resume"

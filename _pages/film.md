@@ -4,13 +4,20 @@ title: "My Films"
 ---
 
 
-
 ## WYF Episode 1
 <iframe title="vimeo-player" src="https://player.vimeo.com/video/700520786" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 ## UConnic Highlight Video
 <iframe src="https://drive.google.com/file/d/12tOKfY_EJFxZyro8kHLhjsr4AGJx_XFQ/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+## Advanced Cinematography Remake
+<iframe src="https://drive.google.com/file/d/1m4gnyZsWwngIHQYv8u0fuLyeEbaxcpws/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
+
+## Narrative Film Remake
+<iframe src="https://drive.google.com/file/d/10WTksfA8Q5fbmBKDgmrfwCB5zHVSxlWK/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 
 ## Showreel

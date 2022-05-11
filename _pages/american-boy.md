@@ -3,9 +3,9 @@ permalink: /american-boy/
 title: "American Boy"
 ---
 
-Audience Responses
+#Audience Responses
 
-How does your perspective compare to that of a 95-year-old?
+**How does your perspective compare to that of a 95-year-old?**
 
 An Interactive Documentary Installation created for the 2022 University of Connecticut Digital Media and Design BFA Senior Exhibition.
 

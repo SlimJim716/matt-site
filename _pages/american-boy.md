@@ -12,7 +12,7 @@ title: "American Boy"
 
 An Interactive Documentary Installation created for the 2022 University of Connecticut Digital Media and Design BFA Senior Exhibition.
 
-Participants were instructed to take 3 question cards that corresponded to the questions asked in the installation video and filled them out while viewing.
+Participants were instructed to take 3 question cards that corresponded to the questions asked in the installation video and filled them out while viewing. Below are their responses:
 
 <center><img src="/assets/images/American Boy Responses-1.jpg" width="900" height="900"></center>
 

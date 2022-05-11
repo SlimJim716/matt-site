@@ -7,7 +7,8 @@ title: "American Boy"
 
 **How does your perspective compare to that of a 95-year-old?**
 
-<iframe src="https://drive.google.com/file/d/1IBETQX-vhiOEIkklY-nNYI1IKyYeR6h7/view?usp=sharing" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1IBETQX-vhiOEIkklY-nNYI1IKyYeR6h7/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+
 
 An Interactive Documentary Installation created for the 2022 University of Connecticut Digital Media and Design BFA Senior Exhibition.
 

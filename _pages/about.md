@@ -29,5 +29,7 @@ Many of my films focus on family, especially learning about my own. I like incor
 
 The creators that have explored the complexities of the human condition I'm interested in and have most impacted me and my work are: Andrew Callahan, John Wilson, Hunter S. Thompson, Werner Herzog, Wim Wenders, Nathan Fielder, Taji Ameen, The Maysles Brothers, and Abbas Kiarostami.
 
-I graduated from the University of Connecticut in 2022 with a B.F.A in Digital Media and Design with a concentration in Film/Video Production. I focused on Video Production and Mass Media Communication. I actively write, film, produce, and edit independently and freelance. I also write and produce as a News Producer at a station in Bakersfield, California. I'm from Connecticut and currently based out of California. Thank you and I hope you enjoyed my thoughts. Please feel free to explore the rest of my site and check out my work.
+I graduated from the University of Connecticut in 2022 with a B.F.A in Digital Media and Design with a concentration in Film/Video Production. I focused on Video Production and Mass Media Communication. I actively write, film, produce, and edit independently and freelance. I also write and produce as a News Producer at a station in Bakersfield, California. I'm from Connecticut and currently based out of California.
+
+Thank you and I hope you enjoyed my thoughts. Please feel free to explore the rest of my site and check out my work.
 

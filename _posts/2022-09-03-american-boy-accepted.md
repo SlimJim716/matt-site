@@ -1,5 +1,5 @@
 ---
-title: "American Boy, Selected"
+title: "American Boy, Accepted"
 date: 2022-09-03T15:34:30-04:00
 categories:
   - blog

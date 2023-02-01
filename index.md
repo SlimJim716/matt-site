@@ -12,4 +12,4 @@ permalink: /
 A personal history of a 95-year-old man, told through the pictures and possessions found within his house.
   
 ![Material Possessions](/assets/images/material_possessions.jpg)
-<iframe src="https://player.vimeo.com/video/685562292?h=4d840f2c66" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<iframe src="https://drive.google.com/file/d/1D95p9tWKLiPEAN7DjjetJnvlPcyPGmbs/preview" width="640" height="480" allow="autoplay"></iframe>

@@ -1,0 +1,4 @@
+---
+permalink: /photography/
+title: "Photography"
+---

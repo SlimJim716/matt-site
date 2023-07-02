@@ -3,8 +3,6 @@ permalink: /photography/
 title: "Photography"
 ---
 
-<center><img src="/assets/images/JIMMYGRADPICSFINAL1.png" width="689.6" height="1033.6"></center>
-
 <center><img src="/assets/images/DSC00117.JPG" width="1033.6" height="689.6"></center>
 
 <center><img src="/assets/images/DSC00150.JPG" width="1033.6" height="689.6"></center>
@@ -28,3 +26,6 @@ title: "Photography"
 <center><img src="/assets/images/Wedding 2.png" width="1033.6" height="689.6"></center>
 
 <center><img src="/assets/images/Wedding 3.png" width="1033.6" height="689.6"></center>
+
+<center><img src="/assets/images/JIMMYGRADPICSFINAL1.png" width="689.6" height="1033.6"></center>
+

@@ -8,4 +8,4 @@ permalink: /
 
 ### Show Reel
 
-<iframe src="https://drive.google.com/file/d/1-xF7SqQxAKVuCReZtharmhhFamdribSB/preview" width="auto" height="auto" frameborder="0" allowfullscreen></iframe> controls poster= (/assets/images/showreelposter.png)
+<iframe src="https://drive.google.com/file/d/1-xF7SqQxAKVuCReZtharmhhFamdribSB/preview" width="auto" height="auto" controls poster= (/assets/images/showreelposter.png) frameborder="0" allowfullscreen></iframe>

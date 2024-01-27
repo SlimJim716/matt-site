@@ -4,39 +4,41 @@ title: "My Films"
 ---
 
 ## 10 on 10's (2023)
-<iframe src="https://drive.google.com/file/d/1LVv6BB6PFXQbE98Ac-kroDW8uuOQRD2j/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![10on10s](/assets/images/
+10on10poster.png)](https://drive.google.com/file/d/1LVv6BB6PFXQbE98Ac-kroDW8uuOQRD2j/view){:target="_blank"}
 
 
-## Motion Extraction Test (2023)
-<iframe src="https://drive.google.com/file/d/1VHm7KuUC2fQa4T-GaCXo0KkEQ6S8lBfq/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+## Acid Rain: Motion Extraction Test (2023)
+[![MotionExtrax](/assets/images/
+acidrainposter.png)](https://drive.google.com/file/d/1VHm7KuUC2fQa4T-GaCXo0KkEQ6S8lBfq/view){:target="_blank"}
 
 
 ## Boxed Water Promo (2023)
-<iframe title="google" src="https://drive.google.com/file/d/10l9pckniKtTLTIWpGR2vc6WuHSGa3QoD/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![BoxedWater](/assets/images/boxedwaterposter.png)](https://drive.google.com/file/d/10l9pckniKtTLTIWpGR2vc6WuHSGa3QoD/view){:target="_blank"}
 
 
 ## WYF Episode 1 (2022)
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/700520786" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![WYF](/assets/images/wyfposter.png)](https://vimeo.com/700520786){:target="_blank"}
 
 
 ## UConnic Music Festival (2022)
-<iframe src="https://drive.google.com/file/d/12tOKfY_EJFxZyro8kHLhjsr4AGJx_XFQ/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![UConnic](/assets/images/uconnicposter.png)](https://drive.google.com/file/d/12tOKfY_EJFxZyro8kHLhjsr4AGJx_XFQ/view){:target="_blank"}
 
 
 ## Blue Velvet Recreation (2022)
-<iframe src="https://drive.google.com/file/d/1m4gnyZsWwngIHQYv8u0fuLyeEbaxcpws/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![BlueVelvet](/assets/images/bluevelvetposter.png)](https://drive.google.com/file/d/1m4gnyZsWwngIHQYv8u0fuLyeEbaxcpws/view){:target="_blank"}
 
 
 ## Seinfeld Remade (2022)
-<iframe src="https://drive.google.com/file/d/10WTksfA8Q5fbmBKDgmrfwCB5zHVSxlWK/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![Seinfeld](/assets/images/seinfeldposter.png)](https://drive.google.com/file/d/10WTksfA8Q5fbmBKDgmrfwCB5zHVSxlWK/view){:target="_blank"}
 
 
 ## In The Walls (2022)
-<iframe src="https://drive.google.com/file/d/1Eer4ihozQkGSWG0L3I9tpjUfzUYC3GGN/preview" width="640" height="360" allow="autoplay"></iframe>
+[![IntheWalls](/assets/images/inthewallsposter.png)](https://drive.google.com/file/d/1Eer4ihozQkGSWG0L3I9tpjUfzUYC3GGN/view){:target="_blank"}
 
 
 ## Prodigal (2021)
-<iframe src="https://drive.google.com/file/d/1nJGkRfKWbE6o1lXBTgYmS_YpmwPJ1n4l/preview" width="640" height="360" allow="autoplay"></iframe>
+[![Prodigal](/assets/images/prodigalposter.png)](https://drive.google.com/file/d/1nJGkRfKWbE6o1lXBTgYmS_YpmwPJ1n4l/view){:target="_blank"}
 
 
 ## Showreel (2021)
@@ -44,7 +46,7 @@ title: "My Films"
 
 
 ## 'The Emperor of Ice-Cream' by Wallace Stevens (2021)
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/644077784" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+[![Poem](/assets/images/videopoemposter.png)](https://vimeo.com/644077784){:target="_blank"}
 
 
 ## Dear Tonya,(2021)

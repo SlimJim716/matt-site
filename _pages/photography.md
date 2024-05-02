@@ -37,7 +37,7 @@ title: "Photography"
 
 <center><img src="/assets/images/DSC01697.jpeg" width="1033.6" height="689.6"></center>
 
-<center><img src="/assets/images/DSC01698.jpeg" width="1033.6" height="689.6"></center>
+<center><img src="/assets/images/DSC01698.jpeg" width="689.6" height="1033.6"></center>
 
 <center><img src="/assets/images/DSC01710.jpeg" width="1033.6" height="689.6"></center>
 

@@ -11,7 +11,7 @@ A personal history of a 95-year-old man, told through the pictures and possessio
 ![American Boy](/assets/images/AmericanBoyPoster.png)
 
 ## American Boy
-**Click image below**
+**Click image below to watch!**
 [![AmericanBoy](/assets/images/americanboyposter.png)](https://drive.google.com/file/d/1M7hWVOZomUAS4QcWg8q3Ck0RMQQc59Fo/view){:target="_blank"}
 
 ### Audience Responses

@@ -26,7 +26,7 @@ acidrainposter.png)](https://drive.google.com/file/d/1VHm7KuUC2fQa4T-GaCXo0KkEQ6
 
 
 ## Blue Velvet Recreation (2022)
-[![BlueVelvet](/assets/images/bluevelvetposter.png)](https://drive.google.com/file/d/1m4gnyZsWwngIHQYv8u0fuLyeEbaxcpws/view){:target="_blank"}
+[![BlueVelvet](/assets/images/bluevelvetposter.png)](https://vimeo.com/manage/videos/1030359004){:target="_blank"}
 
 
 ## Seinfeld Remade (2022)

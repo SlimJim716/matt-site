@@ -2,7 +2,7 @@
 permalink: /film/
 title: "My Films"
 ---
-**Click to images to view each film**
+**Click images to view each film**
 
 ## 10 on 10's (2023)
 [![10on10s](/assets/images/

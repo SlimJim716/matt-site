@@ -6,7 +6,7 @@ title: "My Films"
 
 ## Full Moon Fever (feat. Z Berg & Ryan Ross) (2024)
 [![ZBerg](/assets/images/
-ZBerg2.png)](https://drive.google.com/file/d/1d5dK27DvlNOUfEkTfpjoVDesB2AWWwG6/view){:target="_blank"}
+ZBerg2.jpg)](https://drive.google.com/file/d/1d5dK27DvlNOUfEkTfpjoVDesB2AWWwG6/view){:target="_blank"}
 
 ## 10 on 10's (2023)
 [![10on10s](/assets/images/
